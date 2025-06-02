@@ -31,5 +31,9 @@
 *.out
 *.app
 
+# binary and intermediates
+.x64
+.CppBubbleSort
+
 # goddamn vs shit
 .vs
